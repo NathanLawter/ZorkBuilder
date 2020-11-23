@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcEVQprVF+QxUNHmhdsIm1meTe2L80H+J7hBWmShqUCi2XfuMMleUDVsN26yKyDqATr6DNBqEnSGGcHwdqHwtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LawterN\\Downloads\\ZorkBuilder-main\\ZorkBuilder-main\\ZorkBuilderForm\\ZorkBuilder.Data\\ZorkBuilder.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LawterN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LawterN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\LawterN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

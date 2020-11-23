@@ -1,0 +1,27 @@
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.deps.json
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.dll
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.pdb
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csprojAssemblyReference.cache
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csproj.CoreCompileInputs.cache
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfoInputs.cache
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfo.cs
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.dll
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.pdb
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.deps.json
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.dll
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.pdb
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csprojAssemblyReference.cache
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfoInputs.cache
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfo.cs
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csproj.CoreCompileInputs.cache
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.dll
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.pdb
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.deps.json
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.dll
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\bin\Debug\netstandard2.0\ZorkBuilder.Data.pdb
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csprojAssemblyReference.cache
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfoInputs.cache
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.AssemblyInfo.cs
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.dll
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.pdb
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilder.Data\obj\Debug\netstandard2.0\ZorkBuilder.Data.csproj.CoreCompileInputs.cache

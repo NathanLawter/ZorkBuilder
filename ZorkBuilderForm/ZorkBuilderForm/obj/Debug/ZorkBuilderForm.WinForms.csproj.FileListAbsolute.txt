@@ -1,0 +1,42 @@
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csprojAssemblyReference.cache
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.addRoomForm.resources
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.MainForm.resources
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.Properties.Resources.resources
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.GenerateResource.cache
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.CoreCompileInputs.cache
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.exe
+E:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.pdb
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilderForm.WinForms.exe.config
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilderForm.WinForms.exe
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilderForm.WinForms.pdb
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\Newtonsoft.Json.dll
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilder.Data.dll
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilder.Data.pdb
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\Newtonsoft.Json.xml
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csprojAssemblyReference.cache
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.addRoomForm.resources
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.MainForm.resources
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.Properties.Resources.resources
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.GenerateResource.cache
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.CoreCompileInputs.cache
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.Fody.CopyLocal.cache
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.CopyComplete
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.exe
+D:\School\Fall 2020\Tools and Plugins\Builder Files\Builder\ZorkBuilder-master\ZorkBuilder-master\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.pdb
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csprojAssemblyReference.cache
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.addRoomForm.resources
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.MainForm.resources
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.Properties.Resources.resources
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.GenerateResource.cache
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.exe
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.pdb
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilderForm.WinForms.exe.config
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilderForm.WinForms.exe
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilderForm.WinForms.pdb
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilder.Data.dll
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\ZorkBuilder.Data.pdb
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.Fody.CopyLocal.cache
+C:\Users\LawterN\Downloads\ZorkBuilder-main\ZorkBuilder-main\ZorkBuilderForm\ZorkBuilderForm\obj\Debug\ZorkBuilderForm.WinForms.csproj.CopyComplete
